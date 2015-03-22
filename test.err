@@ -1,0 +1,8 @@
+test.c(42): Warning! W101: Non-portable pointer conversion
+test.c(43): Warning! W101: Non-portable pointer conversion
+test.c(48): Warning! W101: Non-portable pointer conversion
+test.c(53): Warning! W101: Non-portable pointer conversion
+test.c(29): Warning! W113: Pointer type mismatch
+test.c(44): Warning! W113: Pointer type mismatch
+test.c(49): Warning! W113: Pointer type mismatch
+test.c(54): Warning! W113: Pointer type mismatch
